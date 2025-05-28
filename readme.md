@@ -2,7 +2,7 @@
 This document walkthrough the steps to enable MIG on Nvidia GPU and how to use them to run different workloads.
 
 ## Prerequisites
-MIG is only available on high end GPU type. You will nede to chosoe a VM SKU at least with A100.
+MIG is only available on high end GPU type. You will need to choose a VM SKU at least with A100.
 
 ## Configuration
 ### Create Azure resource:
